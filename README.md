@@ -55,7 +55,7 @@ Protocol: TCP | Source Port: 53841 | Dest Port: 443
 ...
 ```
 ## 🖥️ GUI Preview
-(![Packet Sniffer GUI](https://github.com/user-attachments/assets/ef2c029a-abbd-4d98-94b9-125d85fea1af))
+![Packet Sniffer GUI](https://github.com/user-attachments/assets/ef2c029a-abbd-4d98-94b9-125d85fea1af)
 
 
 
